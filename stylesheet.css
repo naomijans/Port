@@ -6,12 +6,12 @@
 .navbar a{
   float: left;
   color: #f2f2f2;
-  text decoration: none;
+  text-decoration: none;
   font-size: 17px;
 }
 
 .navbar a:hover{
-  background-color:ddd;
+  background-color: #ddd;
   color: black;
 }
 
