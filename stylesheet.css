@@ -15,10 +15,9 @@ background-color:ddd;
 color: black;
 }
 
-<style type="text/css">
-    .jumbotron {
-      margin-top: 20px;
-      background-image: url("https://github.com/naomijans/Port/blob/master/colorful-dream-wallpaper-flower-wallpaper-5a9d848eeb97de0036179d40.jpg?raw=true");
-      background-size: cover; 
-      color: white;
-    }
+.jumbotron {
+  margin-top: 20px;
+  background-image: url("https://github.com/naomijans/Port/blob/master/colorful-dream-wallpaper-flower-wallpaper-5a9d848eeb97de0036179d40.jpg?raw=true");
+  background-size: cover; 
+  color: white;
+}
